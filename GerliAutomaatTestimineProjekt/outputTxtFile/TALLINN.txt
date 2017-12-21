@@ -1,0 +1,7 @@
+Weather in Tallinn:
+	Temperature: 3.15
+Forecast for the next 3 days:
+	Min: 3.15 | Max: 3.59
+	Min: 2.50 | Max: 2.83
+	Min: 1.38 | Max: 1.60
+

@@ -1,0 +1,7 @@
+Weather in Tartu:
+	Temperature: 2.15
+Forecast for the next 3 days:
+	Min: -0.76 | Max: 0.05
+	Min: -2.77 | Max: -2.23
+	Min: -3.85 | Max: -3.57
+

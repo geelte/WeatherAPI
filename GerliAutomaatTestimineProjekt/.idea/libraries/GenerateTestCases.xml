@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GenerateTestCases">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GenerateTestCases.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

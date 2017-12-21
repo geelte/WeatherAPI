@@ -1,0 +1,7 @@
+Weather in London:
+	Temperature: 3.44
+Forecast for the next 3 days:
+	Min: 2.84 | Max: 3.63
+	Min: 0.33 | Max: 0.92
+	Min: -2.90 | Max: -2.50
+
